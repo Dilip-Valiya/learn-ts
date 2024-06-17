@@ -1,1 +1,7 @@
+# Ignore the app.js file
+app.js
+
+# Other files and directories to ignore
 node_modules
+.DS_Store
+*.log
