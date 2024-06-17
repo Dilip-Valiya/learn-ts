@@ -1,0 +1,16 @@
+{
+  "name": "learn-ts",
+  "version": "1.0.0",
+  "description": "Learning typescript along with this project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Dilip Valiya",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.4.5"
+  }
+}
